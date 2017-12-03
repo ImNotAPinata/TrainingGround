@@ -1,0 +1,21 @@
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.deps.json
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.json
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.dev.json
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csprojResolveAssemblyReference.cache
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.AssemblyInfo.cs
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.dll
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.pdb
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.dll
+c:\users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.pdb
+C:\Users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\documents\visual studio 2017\Projects\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.AssemblyInfoInputs.cache
+D:\Dev\HackerRankTraining\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.deps.json
+D:\Dev\HackerRankTraining\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.json
+D:\Dev\HackerRankTraining\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.dev.json
+D:\Dev\HackerRankTraining\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.dll
+D:\Dev\HackerRankTraining\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.pdb
+D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csprojResolveAssemblyReference.cache
+D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csproj.CoreCompileInputs.cache
+D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.AssemblyInfo.cs
+D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.dll
+D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.pdb
