@@ -19,3 +19,13 @@ D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.
 D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.AssemblyInfo.cs
 D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.dll
 D:\Dev\HackerRankTraining\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.pdb
+D:\Dev\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.deps.json
+D:\Dev\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.json
+D:\Dev\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.runtimeconfig.dev.json
+D:\Dev\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.dll
+D:\Dev\TrainingGround\TrainingGround\bin\Debug\netcoreapp1.1\TrainingGround.pdb
+D:\Dev\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csprojResolveAssemblyReference.cache
+D:\Dev\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.csproj.CoreCompileInputs.cache
+D:\Dev\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.AssemblyInfo.cs
+D:\Dev\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.dll
+D:\Dev\TrainingGround\TrainingGround\obj\Debug\netcoreapp1.1\TrainingGround.pdb

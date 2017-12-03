@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Dev\\HackerRankTraining\\TrainingGround\\TrainingGround.csproj",
+      "projectUniqueName": "D:\\Dev\\TrainingGround\\TrainingGround\\TrainingGround.csproj",
       "projectName": "TrainingGround",
-      "projectPath": "D:\\Dev\\HackerRankTraining\\TrainingGround\\TrainingGround.csproj",
+      "projectPath": "D:\\Dev\\TrainingGround\\TrainingGround\\TrainingGround.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\HackerRankTraining\\TrainingGround\\obj\\",
+      "outputPath": "D:\\Dev\\TrainingGround\\TrainingGround\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
